@@ -66,12 +66,14 @@ aside a:hover {
   color: #000;
 }
 
-.artPP {
+.artPP, .artPA {
   margin-top: 10%;
   text-align: center;
 }
 
-h2, .artPP {
+h2, .artPP, .artPA {
   margin-left: 30%;
 }
 /*-----Fin Div container page index-----*/
+
+/*-----Contenue Page Article-----*/
