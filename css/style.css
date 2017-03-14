@@ -1,0 +1,77 @@
+body {
+  background-image: linear-gradient(90deg, #000 0%, #FFF 25%, #BB0005 55%, #FFF 85%, #000 100%);
+}
+
+/*-----Style Header-----*/
+
+header>a, h1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h1 {
+  font-family: 'Stalinist One', cursive;
+  font-size: 5em;
+  text-align: center;
+  margin-left: 5%;
+  color: #000
+}
+
+.logo {
+  margin-left: 5%;
+  max-width: 250px;
+  max-height: 250px;
+}
+/*-----Fin Header-----*/
+
+/*-----Div container page index-----*/
+
+h2 {
+  text-align: center;
+  font-family: 'Stalinist One', cursive;
+}
+
+ul, p {
+  font-family: 'Kelly Slab', cursive;
+  font-size: 1.2em;
+}
+
+aside, section {
+  display: inline-block;
+}
+
+aside {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+}
+
+aside>ul li {
+  list-style: none;
+}
+
+section {
+  margin-left: 300px;
+}
+
+aside a, .artPP p {
+  color: #BB0005;
+}
+
+aside a:hover {
+  color: #AAA;
+}
+
+.artPP:hover p {
+  color: #000;
+}
+
+.artPP {
+  margin-top: 10%;
+  text-align: center;
+}
+
+h2, .artPP {
+  margin-left: 30%;
+}
+/*-----Fin Div container page index-----*/
