@@ -52,6 +52,7 @@ aside>ul li {
 
 section {
   margin-left: 300px;
+  /*border-style: solid;*/
 }
 
 aside a, .artPP p {
@@ -77,3 +78,11 @@ h2, .artPP, .artPA {
 /*-----Fin Div container page index-----*/
 
 /*-----Contenue Page Article-----*/
+ .artPC {
+   margin-left: 150px;
+   text-align: center;
+ }
+
+.detail {
+  text-align: right;
+}
